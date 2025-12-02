@@ -1,0 +1,3 @@
+bgm:bad.mp3;
+intro:【指認錯誤】|冤枉好人，真兇逃脫|真凶帶著《福字卷》離開，一次美好的文化交流活動以失竊案告終，留下了遺憾。 -hold -userForward -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=slideIn -delayTime=3000;
+end;

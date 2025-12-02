@@ -1,0 +1,13 @@
+changeBg:classroom1.png;
+changeFigure:anna_shock.png -right -id=Anna;
+Anna:（猛地抬起頭，碧藍的眼睛裡充滿了驚訝和困惑）“井欄？不是……窗戶嗎？;
+天哪！我一直想像的是詩人站在窗前，望著月亮思念家鄉……”;
+changeFigure:选择立绘文件 -id=Anna;
+changeFigure:anna_sad.png -right -id=Anna;
+Anna視角(內心獨白):（她有些沮喪地看著自己的字帖）原來我連最基礎的意思都理解錯了…… -notend;
+changeFigure:none -right -id=Anna;
+changeFigure:fang_confuse.png -right -id=小芳;
+小芳視角（內心獨白）:“（冷靜地觀察著）連字義都能搞錯的人，有什麼資格接觸真正的文物？;
+或許，讓它暫時離開公眾的視線，才是對它最好的保護。”|;
+changeFigure:none -right -id=小芳;
+changeScene:chapter3.txt;

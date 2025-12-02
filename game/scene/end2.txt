@@ -1,0 +1,13 @@
+bgm:good.mp3;
+changeBg:zhongting.jpg;
+intro:【指認成功】 -hold -userForward -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=3000;
+changeFigure:anna_shame.png -right -id=Anna;
+Anna:（淚水瞬間湧出，崩潰地蹲下）“對不起……我真的……真的只是覺得它太美了……;
+（抽泣）我想讓我的家人、我的朋友也都能看到……我以為這是最好的文化交流……我沒想過‘偷’，我真的沒想過……”;
+changeFigure:none -right -id=Anna;
+changeFigure:teacher1.png -right -id=林老師;
+林老師:（歎了一口氣，語氣轉為溫和）“Anna，文化交流的基礎，是尊重與理解，而不是占有。你的熱情我們看到了，但方式大錯特錯。”;
+“這樣吧，《福字卷》追回，展覽照常進行。;
+Anna，作為你深刻認識錯誤的一部分，你需要作為本次展覽的特別志願者，向每一位感興趣的觀眾，講述《福字卷》背後真正的文化故事，;
+以及你從這次事件中學到的，關於‘尊重’與‘理解’的教訓。這，才是真正的文化交流。”;
+end;

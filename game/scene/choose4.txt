@@ -1,0 +1,11 @@
+changeBg:library1.jpg;
+changeFigure:fang_understand.png -right -id=小芳;
+小芳:（從書架後走出來，贊許地點了點頭）“說得對。;
+小芳:‘水落石出’出自歐陽修的《醉翁亭記》，是非常經典的成語。;
+會把‘出’寫成‘山’，說明寫字的人可能只是憑發音記憶，並沒有真正理解這個詞的含義和來源。;
+changeFigure:none -right -id=小芳;
+changeFigure:fang_confuse.png -right -id=小芳;
+（她頓了頓，意有所指地看向遠處）不過，有時候，有些人即使知道正確答案，也會為了某種目的，故意寫錯吧？”;
+changeFigure: -id=小芳;
+changeScene:chapter4.txt;
+changeFigure:选择立绘文件;

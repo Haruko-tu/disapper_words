@@ -1,0 +1,7 @@
+changeBg:exhibition1.jpg;
+changeFigure:fang_confuse.png -right -id=小芳;
+小芳:（推了推眼鏡，認真地說）“嗯！一般來說，‘福倒’諧音‘福到’，是新春吉兆。;
+小芳:不過，我聽一些民俗學者說過，在古代，也只有窮苦人家或不識字的人家，才會不小心或者特意用這種‘討口彩’的極端方式，期盼轉運。;
+小芳:真正講究的大家族，反而會端正地貼，以示莊重。所以，貼倒福的人，可能對它的理解……並不那麼深入和正統。”;
+changeFigure: -right -id=小芳;
+changeScene:chapter2.txt;

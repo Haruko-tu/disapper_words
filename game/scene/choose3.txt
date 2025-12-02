@@ -1,0 +1,5 @@
+changeBg:classroom1.jpg;
+changeFigure:anna_sad.png -right -id=Anna;
+Anna:“這麼巧嗎！我分不清這些墨汁的區別，只是我的那瓶是從家鄉帶來的......”;
+changeFigure:选择立绘文件 -right -id=Anna;
+changeScene:chapter3.txt;

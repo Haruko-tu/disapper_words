@@ -1,0 +1,10 @@
+intro:第三章：成語的迷霧 -hold -userForward -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=3500;
+changeBg:library1.jpg;
+旁白:圖書館古籍區。;
+changeFigure:mian_new_thinking.png -right -id=偵探助教;
+你在關於《福字卷》歷史文獻的書架上，發現了一張夾在書裡的紙條。;
+intro:【獲得線索：寫有“水落石山”的紙條】 -hold -userForward -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=3000;
+偵探助教:【文化謎題/選項】;
+changeFigure: -right -id=偵探助教;
+choose:（直接糾正）“這是個錯別字成語，正確的應該是‘水落石出’，比喻真相大白。”:choose4.txt|（思考關聯）“‘石山’……會不會和《福字卷》的裝裱或者內容有關？”:选择场景文件;
+changeScene:chapter4.txt;
